@@ -23,9 +23,9 @@ This project focuses on practical Excel data-cleaning techniques that are common
 **1. Handling Missing Values**
 
 Missing Price and categories : 
-The missing values in the dataset would be marked as Missing through the Go To dialog box, where all the blanks could be filled up.
+The missing values in the dataset would be marked as Missing through the Go To dialog box, where all the blanks could be filled up.The missing values in the price column were imputed using the **Median()**.
 
-Blank values in the Price column were identified using Excel's:
+Blank values were identified using Excel's:
 
 **Go To → Special → Blanks**
 
